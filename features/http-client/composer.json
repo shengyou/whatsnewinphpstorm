@@ -1,0 +1,20 @@
+{
+    "name": "phpstorm/http-client",
+    "description": "a HTTP client demo project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shengyou Fan",
+            "email": "shengyoufan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.6|^7.0|^8.0",
+        "ext-json": "*"
+    },
+    "scripts": {
+        "serve": "@php -S 0.0.0.0:8080 -t ."
+    }
+}
