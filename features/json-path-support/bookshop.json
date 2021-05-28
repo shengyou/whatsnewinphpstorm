@@ -1,0 +1,14 @@
+{
+  "version": "2021.1",
+  "services": "Bookshop",
+  "books": [
+    {
+      "title": "A Book",
+      "price": 100
+    },
+    {
+      "title": "B Book",
+      "price": 200
+    }
+  ]
+}

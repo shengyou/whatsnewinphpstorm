@@ -8,9 +8,16 @@ straight from the comfort of your IDE.
 While not exhaustive, it will help you learn some nice quality of
 life features and boost your productivity while using it.
 
+## Features
+
+To learn all the features from PhpStorm one by one, check out [this
+list](features/README.md) to know more details.
+
 ## Product versions
 
-- [2021.1](./2021.1/README.md)
+- [2021.1](releases/2021.1.md)
+- [2020.3](releases/2020.3.md)
+- [2020.2](releases/2020.2.md)
 
 ## Contributions
 

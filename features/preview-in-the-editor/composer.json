@@ -1,0 +1,16 @@
+{
+    "name": "phpstorm/preview-in-the-editor",
+    "description": "a Code With Me demo project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shengyou Fan",
+            "email": "shengyoufan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.6|^7.0|^8.0"
+    }
+}
